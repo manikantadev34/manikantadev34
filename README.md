@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hello, I'm Manikanta!</h1>
 
 <p align="center">
-  <a href="https://yourwebsite.com"><b>🌐 Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/veeramanikanta-chollangi-96b2531a9/?trk=PROFILE_DROP_DOWN"><b>🔗 LinkedIn</b></a>
+  <a href="https://my-portfolio-ten-kappa-67.vercel.app/"><b>🌐 Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/surya-sai-manikanta-kunchanapalli-2a8955267/"><b>🔗 LinkedIn</b></a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 🔹 Currently working with React, Node.js, Express.js, MongoDB, and SQL.  
 🔹 Always eager to explore new technologies and improve my skills.  
 
-📩 Let's Connect: chollangiveeramanikanta3@gmail.com
+📩 Let's Connect: manikantakunchanapali@gmail.com
 
 ---
 

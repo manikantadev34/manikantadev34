@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Manikanta!</h1>
 
 <p align="center">
-  <a href="https://my-portfolio-ten-kappa-67.vercel.app/"><b>🌐 Portfolio</b></a> •
+  <a href="https://my-portfolio-ten-kappa-67.vercel.app/"><b>🌐 Portfolio</b></a> 
   <a href="https://www.linkedin.com/in/surya-sai-manikanta-kunchanapalli-2a8955267/"><b>🔗 LinkedIn</b></a>
 </p>
 

@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me  
-🔹 Full Stack Developer passionate about building responsive and scalable web applications.  
+🔹 Full Stack Developer passionate about building responsive and scalable web applications.
 🔹 Skilled in Frontend, Backend, and Full Stack Development.  
 🔹 Currently working with React, Node.js, Express.js, MongoDB, and SQL.  
 🔹 Always eager to explore new technologies and improve my skills.  
